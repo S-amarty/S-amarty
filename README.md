@@ -4,7 +4,7 @@
 
   <a href="https://aayushbharti.in/">
     <img
-      alt="Aayush Bharti"
+      alt="Amar Khedkar"
       src="./assets/banner.jpg"
       width="100%"
     />
