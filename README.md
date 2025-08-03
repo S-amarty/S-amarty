@@ -7,7 +7,7 @@
     <a href="mailto:amarkhedkar@outlook.com">
       <img src="assets/icons/email.png" width="32">
     </a>
-    <a href="https://linkedin.com/in/amar-khedkar-904252176">
+    <a href="https://linkedin.com/in/amarkhedkar">
       <img src="assets/icons/linkedin.png" width="32">
     </a>
     <a href="https://github.com/S-amarty">
