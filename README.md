@@ -78,6 +78,14 @@
 </div>
 
 ---
+Key Highlights:
+	•	📈 Rise in fake research, newsletters & whistleblower leaks
+	•	🤖 Use of AI-generated personas to manipulate narratives
+	•	⚠️ Growing misuse of anonymity to spread misinformation
+	•	🔐 Tips shared on how to detect fake content and stay safe
+
+🗞️ Published on @s.amarty
+
 
 ## 🛠️ Security Tech Stack
 
