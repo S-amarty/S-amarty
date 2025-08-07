@@ -51,7 +51,7 @@
 ---
 
 ### 🕵️‍♂️ Threat-Aware Monitoring System
-[![View Project](https://img.shields.io/badge/VIEW_PROJECT-%233AAAE2?style=for-the-badge)](https://github.com/S-amarty/HealthCheck)
+[![View Project]()]()
 
 <img src="assets/images/threat-dashboard.png" width="100%">
 
