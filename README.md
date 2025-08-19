@@ -29,7 +29,7 @@
 
 ## 🛡️ Core Cybersecurity Expertise
 
-<!-- Core Expertise cards remain unchanged -->
+<!-- Core Expertises cards remain unchanged -->
 
 ---
 
