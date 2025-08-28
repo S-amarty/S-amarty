@@ -1,128 +1,133 @@
-# smartycyber
+Amar Khedkar - Full-Stack Java & DevOps Engineer
 
-[![Python 3.6](https://img.shields.io/badge/python-3.6%20%2B-green.svg)](https://www.python.org/) [![License](https://img.shields.io/badge/license-GPLv3-red.svg)](https://raw.githubusercontent.com/S-amarty/smartycyber/master/LICENSE.md)
-
-**smartycyber** is an open-source penetration testing tool designed to automate the process of detecting and exploiting file upload form vulnerabilities. It helps identify which file types are allowed, determines the best technique for uploading web shells or malicious payloads, and checks whether uploaded files are scanned by a vulnerability scanner or not.
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
 
 <div align="center">
-  <img src="assets/gifs/security-banner.gif" width="90%">
-  
-  <h1>🔒 Amar Khedkar - Cybersecurity Engineer</h1>
+  <h1>👋 Hello! I'm Amar Khedkar</h1>
+  <h3>Full-Stack Java Developer & DevOps Engineer</h3>
   
   <div>
     <a href="mailto:amarkhedkar@outlook.com">
-      <img src="assets/icons/email.png" width="32">
+      <img src="https://img.shields.io/badge/Email-outlook.com-blue?style=flat-square&logo=microsoft-outlook" alt="Email">
     </a>
     <a href="https://linkedin.com/in/amarkhedkar">
-      <img src="assets/icons/linkedin.png" width="32">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://github.com/S-amarty">
-      <img src="assets/icons/github.png" width="32">
-    </a>
-    <a href="https://tryhackme.com/p/S.amarty">
-      <img src="assets/icons/tryhackme.png" width="32">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub">
     </a>
   </div>
 </div>
 
 ---
 
-## 🛡️ Core Cybersecurity Expertise
+## 🚀 About Me
 
-<!-- Core Expertises cards remain unchanged -->
+Full-Stack Java Developer with 3 years of experience at Capgemini, specializing in building secure, scalable, and high-performance backend systems. I've been a key contributor to the development and deployment of a National Address Management System using Spring Boot, PostgreSQL/PostGIS, Docker, and AWS.
 
----
-
-## 🚀 Featured Security Projects
-
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 30px;">
-
-### 🔐 National Address Security System
-[![View Project](https://img.shields.io/badge/VIEW_PROJECT-%233AAAE2?style=for-the-badge)](https://github.com/S-amarty/Dawa-Docker)
-
-<img src="assets/images/dawa-security.png" width="100%">
-
-**Security Features:**
-- 🇩🇰 Denmark's National Address Repository
-- 🔗 URL obfuscation with SHA-256 encoding
-- 📊 Real-time access pattern monitoring
-- 🛡️ GDPR-compliant data handling
+I'm passionate about creating efficient systems, automating workflows, and implementing DevOps practices to improve development velocity and system reliability.
 
 ---
 
-### 🕵️‍♂️ Threat-Aware Monitoring System
-[![View Project]()]()
+## 🛠️ Technical Skills
 
-<img src="assets/images/threat-dashboard.png" width="100%">
+**Languages:** Java, JavaScript, SQL, Bash
 
-**Security Integrations:**
-- 🚨 Automated vulnerability scanning
-- 🔄 Continuous security posture assessment
-- 📈 Threat intelligence feeds
-- 📋 Compliance reporting
+**Frameworks:** Spring Boot, Hibernate, React, Microservices
 
----
+**Cloud & DevOps:** AWS, Docker, Kubernetes, Jenkins, Terraform, Terragrunt, Helm
 
-### 📂 File Upload Vulnerability Scanner - smartycyber
-[![View Project](https://img.shields.io/badge/VIEW_PROJECT-%233AAAE2?style=for-the-badge)](https://github.com/S-amarty/smartycyber)
+**Databases:** PostgreSQL/PostGIS, MySQL, MongoDB
 
-<img src="assets/images/smartycyber-banner.png" width="100%">
+**Tools & Technologies:** Git, Jira, Camunda, Postman, GitHub Actions, Apache HTTP Client
 
-**Tool Highlights:**
-- 🎯 Detects file upload vulnerabilities
-- 🐚 Supports web shell payload injection
-- 🔍 Detects active file scanning filters
-- 🐳 Dockerized for quick deployment
-- ⚠️ Ethical use only — designed by [@s.amarty](https://instagram.com/s.amarty)
-
-</div>
-
----
-Key Highlights:
-	•	📈 Rise in fake research, newsletters & whistleblower leaks
-	•	🤖 Use of AI-generated personas to manipulate narratives
-	•	⚠️ Growing misuse of anonymity to spread misinformation
-	•	🔐 Tips shared on how to detect fake content and stay safe
-
-🗞️ Published on @s.amarty
-
-
-## 🛠️ Security Tech Stack
-
-<!-- Tech stack table remains unchanged -->
+**Security:** JWT, OAuth2, Secure Coding Practices, Vulnerability Assessment
 
 ---
 
-## 📊 Security Impact Metrics
+## 💼 Professional Experience
 
-<!-- Security metrics GIF cards remain unchanged -->
+### **Associate Consultant** at Capgemini India
 
----
-
-## ⚖️ Legal & Compliance
-
-> **Disclaimer**: Security implementations described were conducted within authorized professional engagements at Capgemini. Personal projects under GitHub organization **S.amarty** are for portfolio demonstration only. All techniques comply with IT Act 2000 and international cyber laws.
-
-**Certifications:**
-<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
-  <img src="assets/certifications/cyber-law.png" width="100">
-  <img src="assets/certifications/azure-ai.png" width="100">
-  <img src="assets/certifications/gdpr-cert.png" width="100">
-</div>
+- Led development of a scalable **Address Management System** integrating Denmark's National Address Repository (DAR) using **Spring Boot, AWS, and Docker**, handling **4.2M+ address records** with **99.8% geo-accuracy**
+- **Containerized and orchestrated** the DAWA Replication Client using **Docker and Docker Compose**, enabling scheduled address data synchronization
+- Managed infrastructure using **Terraform and Terragrunt**, provisioning Amazon RDS instances and storing credentials securely in AWS Secrets Manager
+- Developed **RESTful APIs** for address creation, standard search, and **Lucene-based fuzzy search**, improving address resolution flexibility
+- Implemented **database triggers** to automate workflows and ensure data integrity in PostgreSQL/PostGIS
+- Extended **CI/CD pipelines** with GitHub Actions and Helm for seamless deployment of microservices to Kubernetes
+- **Reduced Service Order Management incidents by 98%** (400→9/month) through workflow optimization and Root Cause Analysis
+- Created a **Java-based monitoring system** with email alerts that cut website downtime by 30%
+- Improved order fulfillment accuracy by 25% by fixing adapters in telecom OSS/BSS systems
+- Mentored 5+ Junior Developers in Java, secure coding practices, and error handling
 
 ---
 
-## 📬 Contact Me
+## 🚀 Key Projects
+
+### **National Address Management System**
+*Tech Stack: Spring Boot, PostgreSQL/PostGIS, AWS, Docker, Terraform, Kubernetes*
+
+- Developed and deployed a scalable system integrating Denmark's National Address Repository
+- Implemented REST APIs with Lucene-based fuzzy search capabilities
+- Containerized application components using Docker and orchestrated with Kubernetes
+- Managed infrastructure as code using Terraform and Terragrunt
+
+### **URL Health Monitoring System**
+*Tech Stack: Spring Boot, PostgreSQL, React.js, Apache HTTP Client*
+
+- Engineered full-stack monitoring tool reducing manual effort by 60%
+- Automated HTTP status checks for 150+ endpoints every 15 minutes
+- Achieved 99.95% SLA compliance across critical production APIs
+
+### **Dawa Docker Image**
+*Tech Stack: Docker, PostgreSQL, PostGIS, Node.js, Bash, Docker Compose*
+
+- Containerized Denmark's Addresses Web API (DAWA) replication client
+- Implemented scheduled replication with configurable sync intervals
+
+### **Flat Rental Portal**
+*Tech Stack: Spring Boot, PostgreSQL, React.js*
+
+- Delivered React/Spring Boot app with role-based access control
+- Processed 1.2K+ dummy bookings with efficient data handling
+
+---
+
+## 📚 Education & Certifications
+
+- **B.Tech in Metallurgical Engineering** - College of Engineering, Pune (COEP)
+- **Diploma in Cyber Law** - Asian School of Cyber Law
+- **Microsoft Certified: Azure AI Fundamentals** - Microsoft
+
+---
+
+## 🌟 Achievements
+
+- Reduced telecom order management incidents by **98%** through in-depth RCA and improved adapter logic
+- Created monitoring system that cut website downtime by **30%**
+- Improved order fulfillment accuracy by **25%** in telecom OSS/BSS systems
+- Successfully handled **4.2M+ address records** with **99.8% geo-accuracy**
+
+---
+
+## 📫 Let's Connect!
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
+
+- **Email:** [amarkhedkar@outlook.com](mailto:amarkhedkar@outlook.com)
+- **LinkedIn:** [linkedin.com/in/amarkhedkar](https://linkedin.com/in/amarkhedkar)
+- **GitHub:** [github.com/S-amarty](https://github.com/S-amarty)
+- **Location:** Pune, Maharashtra, India
+
+---
 
 <div align="center">
-  <a href="mailto:amarkhedkar@outlook.com" style="display: inline-block; background: #2d46b9; color: white; padding: 12px 24px; border-radius: 30px; text-decoration: none; margin: 10px; font-weight: bold;">
-    <img src="assets/icons/email-white.png" width="20" style="vertical-align: middle;"> Email Me
-  </a>
-  <a href="https://linkedin.com/in/amar-khedkar-904252176" style="display: inline-block; background: #0a66c2; color: white; padding: 12px 24px; border-radius: 30px; text-decoration: none; margin: 10px; font-weight: bold;">
-    <img src="assets/icons/linkedin-white.png" width="20" style="vertical-align: middle;"> LinkedIn
-  </a>
-</div>
+  
+[![Visitors](https://komarev.com/ghpvc/?username=S-amarty&label=Profile%20Views&color=blue&style=flat)](https://github.com/S-amarty)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=S-amarty&label=PROFILE+VIEWS&color=blue&style=flat" alt="Profile views">
-</p>
+</div>
