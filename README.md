@@ -10,9 +10,10 @@
   <h3>Full-Stack Java Developer & DevOps Engineer</h3>
   
   <div>
-    <a href="mailto:amarkhedkar@outlook.com">
-      <img src="https://toppng.com/uploads/preview/email-icon-11549824998kxtgh4g0tp.png" alt="Email">
-    </a>
+
+  <a href="mailto:amarkhedkar@outlook.com">
+  <img src="https://img.shields.io/badge/Email-amarkhedkar@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email">
+  </a>
     <a href="https://linkedin.com/in/amarkhedkar">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
