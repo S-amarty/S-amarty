@@ -11,7 +11,7 @@
   
   <div>
     <a href="mailto:amarkhedkar@outlook.com">
-      <img src="https://img.shields.io/badge/Email-outlook.com-blue?style=flat-square&logo=microsoft-outlook" alt="Email">
+      <img src="https://toppng.com/uploads/preview/email-icon-11549824998kxtgh4g0tp.png" alt="Email">
     </a>
     <a href="https://linkedin.com/in/amarkhedkar">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
