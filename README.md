@@ -28,7 +28,7 @@
 
 ## 🚀 About Me
 
-Full-Stack Java Developer with 3 years of experience at Capgemini, specializing in building secure, scalable, and high-performance backend systems. I've been a key contributor to the development and deployment of a National Address Management System using Spring Boot, PostgreSQL/PostGIS, Docker, and AWS.
+Full-Stack Java Developer with 3 years of experience at Capgemini, specializing in building secure, scalable, and high-performance backend systems. I've been a key contributor to the development and deployment of a National Address Management System using Spring Boot, PostgreSQL/PostGIS, Docker, Terraform/Terragrunt and AWS.
 
 I'm passionate about creating efficient systems, automating workflows, and implementing DevOps practices to improve development velocity and system reliability.
 
