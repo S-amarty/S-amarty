@@ -122,7 +122,8 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 - **Email:** [amarkhedkar@outlook.com](mailto:amarkhedkar@outlook.com)
 - **LinkedIn:** [linkedin.com/in/amarkhedkar](https://linkedin.com/in/amarkhedkar)
 - **GitHub:** [github.com/S-amarty](https://github.com/S-amarty)
-- **Location:** Pune, Maharashtra, India
+- **Location:** Pune, Maharashtra, India 
+- **Last Working Day:** 30 Oct 2025
 
 ---
 
